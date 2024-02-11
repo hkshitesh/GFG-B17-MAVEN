@@ -35,5 +35,6 @@ public class MyCalc {
 		System.out.println("Division is :"+calc.div(20, 10));
 		calc.show();
 		calc.hello();
+		System.out.println("sdfghjk");
 	}
 }
