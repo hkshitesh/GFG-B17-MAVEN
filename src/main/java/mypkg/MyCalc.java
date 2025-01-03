@@ -23,7 +23,7 @@ public class MyCalc {
 	}
 	public void hello()
 	{
-		System.out.println("GFG Hello Function!");
+		System.out.println("GFG Hello Function! This is T3 Demo");
 	}
 	public void test()
 	{
